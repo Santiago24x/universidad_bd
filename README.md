@@ -393,3 +393,9 @@ INNER JOIN academicSessions ON academicSessions.id = academicSessions_has_course
 INNER JOIN course ON course.id = academicSessions_has_courses.course_id;
 ```
 
+## Built with 🛠️
+
+* [Notion](https://notion.so/es-es/product) - Used for conceptual model design
+* [MySQL Workbench](https://www.mysql.com/products/workbench/) - Used for physical design
+* [Readme.so](https://readme.so/editor) - Readme construction tool
+
